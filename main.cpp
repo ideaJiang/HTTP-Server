@@ -3,7 +3,7 @@
  *
  *  Created on: May 5, 2013
  *      Author: Nathan Zondlo
- *      		Zachary Swartwood
+ *      	Zachary Swartwood
  *        Name: ZaN Server v0.2.2
  * Description: Deliverable 1 (4/30/13)
  * 				-The main for project 2. It takes user inputed port number
