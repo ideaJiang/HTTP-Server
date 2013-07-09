@@ -19,7 +19,7 @@ Inheritance Hierarchy:
 
 
 		      Application <- Timestamp
-		     	^     	^    
+		     	 ^     	^    
       		    _|     	|_	  
 		Server		Socket			
 		 ^		
