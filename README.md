@@ -2,7 +2,8 @@ HTTP-Server
 ===========
 
 ###### HTTP Server implementation written in C/C++
-###### Development OS: Fedora 16 with G++ compiler
+###### Development OS: Fedora 16
+###### Compile G++ 4.6.3
 ###### IDE: Eclipse Juno
 ###### Credit: Nathan Zondlo and Zach Swartwood
 
