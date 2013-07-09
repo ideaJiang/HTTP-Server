@@ -1,0 +1,30 @@
+Classes that should be implemented:
+
+	Application:
+			.setSignalHandler()
+			.logWrite(message)
+			
+	Socket:	
+			Socket(Port)	
+					
+	Server:
+			Server(Socket)
+		
+		 -> HTTPserver:
+		 				HTTPserver(Socket)
+		 				.conversation()
+							
+	Timestamp:
+			.getDate()
+			.getTime()
+
+============================================================
+			
+			
+			Application <- Timestamp
+			^    ^    
+           _|    |	  
+		Server	Socket			
+		^
+	   _|
+	HTTPServer

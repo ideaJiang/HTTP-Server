@@ -1,0 +1,22 @@
+
+May 09 2013  04:02:44 PM  - Starting Server
+May 09 2013  04:02:47 PM  - Signal received: Terminated - 15
+May 09 2013  04:02:47 PM  - Close listening socket
+May 09 2013  04:02:47 PM  - Closing client connection
+May 09 2013  04:03:45 PM  - Starting Server
+May 09 2013  04:04:24 PM  - Client request: time
+May 09 2013  04:04:24 PM  - Closing client connection
+May 09 2013  04:04:24 PM  - Close listening socket
+May 09 2013  04:04:24 PM  - Close listening socket
+May 09 2013  04:04:36 PM  - Fatal Exception:   Buffer read FAIL
+May 09 2013  04:04:37 PM  - Close listening socket
+May 09 2013  04:04:37 PM  - Closing client connection
+May 09 2013  04:06:31 PM  - Starting Server
+May 09 2013  04:11:14 PM  - Client request: time
+May 09 2013  04:13:14 PM  - Fatal Exception:   Socket Bind FAIL
+May 09 2013  04:13:15 PM  - Close listening socket
+May 09 2013  04:13:15 PM  - Closing client connection
+May 09 2013  04:14:04 PM  - Starting Server
+May 09 2013  04:16:11 PM  - Client request: time
+May 09 2013  04:17:29 PM  - Closing client connection
+May 09 2013  04:17:35 PM  - Closing client connection
