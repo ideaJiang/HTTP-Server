@@ -20,7 +20,7 @@ HTTPserver.o: application/servers/HTTP/HTTPserver.cpp
 	$(CC) $(CFLAGS) application/servers/HTTP/HTTPserver.cpp
 
 Socket.o: application/socket/base/Socket.cpp
-	$(CC) $(CFLAGS) applicaiton/socket/base/Socket.cpp
+	$(CC) $(CFLAGS) application/socket/base/Socket.cpp
 
 Timestamp.o: classes/timestamp/base/Timestamp.cpp
 	$(CC) $(CFLAGS) classes/timestamp/base/Timestamp.cpp
