@@ -32,7 +32,7 @@ Legend
 
 # main()
 
-All code is well *thoroughly* commented.
+All code is *thoroughly* commented.
 
 ```C++
 /* Main executed at runtime */
@@ -79,3 +79,7 @@ int main(int argc, char ** argv){
 }
 
 ```
+
+# Run server
+
+### Compile necessary files
