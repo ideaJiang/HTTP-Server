@@ -103,9 +103,9 @@ make creates `HTTPserver` program. Looking for port number argument. Try running
 ### Test
 
 You can test the server by either going to your browser and typing one of the following:
-
+```
 http://localhost:4000
 http://localhost:4000/date
 http://localhost:4000/time
-
+```
 and you should have expected results.
