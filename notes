@@ -10,21 +10,30 @@ Classes that should be implemented:
 	Server:
 			Server(Socket)
 		
-		 -> HTTPserver:
-		 				HTTPserver(Socket)
-		 				.conversation()
+	HTTPserver:
+		 	HTTPserver(Socket)
+		 	.conversation()
 							
 	Timestamp:
 			.getDate()
 			.getTime()
 
 ============================================================
-			
-			
+
+Inheritance Hierarchy:
+
+--------------------------------------------------------------
+| Legend:						     |	
+| <- : inclusion of a class				     |
+| ^                                                          |
+| |  : Lower Class inherits from the class it is pointing to |
+--------------------------------------------------------------
+
+
 			Application <- Timestamp
-			^    ^    
-           _|    |	  
-		Server	Socket			
-		^
-	   _|
+			^     	^    
+           	       _|     	|_	  
+		Server		Socket			
+		 ^		
+		_|
 	HTTPServer
