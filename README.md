@@ -110,8 +110,9 @@ http://localhost:4000/time
 ```
 and you should have expected results.
 
-### Todo
+# Todo
 
 As of 7/9/13
+
 1. Use directory functions in `<dirent.h>` to add support for custom directories
 2. Load `index.htm` by default in any directory we have available to us
