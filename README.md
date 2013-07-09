@@ -82,6 +82,30 @@ int main(int argc, char ** argv){
 
 ```
 
-# Run server
+# Compile and Run
 
 ### Compile necessary files
+
+A makefile is setup. run make command in the directory with the source code
+
+```
+make
+```
+
+### Run HTTPserver
+
+make creates `HTTPserver` program. Looking for port number argument. Try running with port number 4000:
+
+```
+./HTTPserver 4000
+```
+
+### Test
+
+You can test the server by either going to your browser and typing one of the following:
+
+http://localhost:4000
+http://localhost:4000/date
+http://localhost:4000/time
+
+and you should have expected results.
