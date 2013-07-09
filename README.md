@@ -10,7 +10,8 @@ Currently, sending a browser request to the top level domain, /date, /time, all 
 
 ### Inheritance Hierarchy:
 
-##### Legend  					                                         	
+```
+ Legend: 					                                         	
  <- : inclusion of a class				                           
  ^                                                          
  |  : Lower class inherits from the class it is pointing to 
@@ -24,3 +25,4 @@ Currently, sending a browser request to the top level domain, /date, /time, all 
 		 ^		
 		_|
 	HTTPServer
+```
