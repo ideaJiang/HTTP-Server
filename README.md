@@ -30,7 +30,9 @@ Legend
 	HTTPServer
 ```
 
-Here is the `main()` executed at runtime:
+# main()
+
+All code is well *thoroughly* commented.
 
 ```C++
 /* Main executed at runtime */
