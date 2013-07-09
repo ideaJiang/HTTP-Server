@@ -9,7 +9,7 @@
  * 				-The main for project 2. It takes user inputed port number
  *				 and then creates and socket and dateTimeserver with that port number.
  *
- *				Deliverable 2 (5/5/13)
+ *		Deliverable 2 (5/5/13)
  *				-Accepts a request from a client through a web browser.
  *				-Returns response with basic HTML
  */
