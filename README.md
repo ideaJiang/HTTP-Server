@@ -8,13 +8,12 @@ This is a C/C++ implementation of an HTTP Server that serves back a request, tim
 Currently, sending a browser request to the top level domain, /date, /time, all perform as expected. With a 404 error response sent otherwise.
 
 
-Inheritance Hierarchy:
+### Inheritance Hierarchy:
 
-
-| ### Legend  	|				                                         	
-| <- : inclusion of a class	|			                           
-| ^                                                          
-|    : Lower class inherits from the class it is pointing to |
+ ##### Legend  					                                         	
+ <- : inclusion of a class				                           
+ ^                                                          
+ |  : Lower class inherits from the class it is pointing to 
 
 
 
